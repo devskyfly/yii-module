@@ -1,0 +1,9 @@
+.php_cs.cache
+
+#Eclipse
+.settings/**
+.project
+
+#Composer
+vendor
+tests/_output/*
